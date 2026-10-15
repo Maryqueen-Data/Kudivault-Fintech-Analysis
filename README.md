@@ -65,11 +65,11 @@ The three pages answer one chain of questions: where do users drop off, can they
 - Lagos has 283 users, about 3x Abuja (90). Port Harcourt (86), Benin City (81), Enugu (81) and Ibadan (81) follow closely.
 - The location chart adds up to 980 users out of 1,000. The missing 20 (2%) match the "missing location on ~2% of rows" issue, which shows how the data cleaning appears in the dashboard.
 #### Recommendations
-•	Move budget to Push, Email and SMS, and keep TikTok and X for limited reactivation.
-•	Scale Save Smarter and Reactivation messaging, and rework Beat Inflation.
-•	Study what the fast converters did and use it to shrink the slow-conversion group.
-•	Target the 96 churned users with a reactivation campaign.
-•	Test acquisition in the cities close behind Abuja, to see whether Lagos dominance is market size or acquisition.
+- Move budget to Push, Email and SMS, and keep TikTok and X for limited reactivation.
+- Scale Save Smarter and Reactivation messaging, and rework Beat Inflation.
+- Study what the fast converters did and use it to shrink the slow-conversion group.
+- Target the 96 churned users with a reactivation campaign.
+- Test acquisition in the cities close behind Abuja, to see whether Lagos dominance is market size or acquisition.
 
 ## Overall recommendations
 The data points to one objective: get more users safely through activation, then keep them saving.
